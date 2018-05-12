@@ -1,0 +1,40 @@
+_repo: The-Last-Lion-and-Other-Tales_39062
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Lorente, Mariano Joaquín
+    alias: Lorente, Mariano Joaquin
+    birthdate: 1883
+    gutenberg_agent_id: '39820'
+    url: http://www.gutenberg.org/2009/agents/39820
+covers:
+- cover_type: archival
+  image_path: 39062-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Ibáñez, Vicente Blasco
+    - Blasco Ibanez, Vicente
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2012-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Translations into English'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+tableOfContents: The last lion -- The toad -- Compassion -- The windfall -- Luxury
+  -- Rabies.
+title: The Last Lion, and Other Tales
+url: http://www.gutenberg.org/ebooks/39062
