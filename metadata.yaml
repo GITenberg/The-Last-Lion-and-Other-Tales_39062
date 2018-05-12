@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39062#The-Last-Lion-and-Other-Tales
 gutenberg_issued: '2012-03-05'
 gutenberg_type: Text
 identifiers:
